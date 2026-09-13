@@ -32,7 +32,9 @@
 
 ### Image:
 
-![Quantum Image](./quantum.jpg)
+![Quantum Image](./quantum/quantum-device.jpg)
+
+![Quantum Fetch](./quantum/quantum-fetch.png)
 
 <details>
 <summary>Structure</summary>
