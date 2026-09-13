@@ -141,20 +141,20 @@
   - **Prometheus** - Connects to multiple servers and services
   - **Zerobyte** - Backing up from anything to anything
     - Backs-up Immich files from Quantum to Google Drive using Rclone through Syncthing.
-  - **Terraria Vanilla** - Basic terraria server
+  - **Terraria Vanilla** - Basic vanilla terraria server
   - **Ptredactyl Panel (Pelican)** - Panel for managing Pterodactyl Wings and Eggs
   - **Headscale** - Selfhosted tailscale server
   - **Headplane** - GUI for headscale
   - **Copyparty** - Simple file server
   - **Beszel-Agent** - Agent to connect to a beszel server
-  - **Minecraft** - Basic/Advanced Server with and without mods
+  - **Minecraft** - Basic/Advanced Minecraft server with and without mods
   - **AdGuard Home** - AGH for tailnet
-  - **Warp** + **Tailscale** Stack - Exit-node for tailnet
+  - **CF Warp** + **Tailscale** Stack - Cloudflare Warp Exit-node for tailnet
 - Host
   - **Caddy** - Reverse Proxy Server (Public)
     - Connects to crowdec using module
-    - Cloudflare DNS Challenges for SSL Certificates to avoiding exposing *Port 80*
+    - Cloudflare DNS Challenges for SSL Certificates to avoid exposing *Port 80*
   - **Hermes Agent** - AI Assistant. Openclaw but better
-  - Anti-Gravity
-  - Syncthing
+  - **Anti-Gravity** - Just an AI agent to make use of my free Google One subscription.
+  - **Syncthing** - Syncing files between multiple devices.
 
